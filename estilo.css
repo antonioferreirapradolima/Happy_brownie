@@ -35,4 +35,9 @@ header{
 .centro{
     text-align: center;
 }
+.Tabela{
+    height:80% ;
+    width: 70%;
+    
+}
 @media all and (max-width: 450px) {}
