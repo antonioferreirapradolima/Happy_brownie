@@ -1,0 +1,38 @@
+.destaque1{
+    height: 10%; 
+    width: 100%;
+    padding-bottom: 3.5%;
+}
+.destaque2{
+    background-color: #ffe9e9;
+}
+.destaque3{
+    background-color:#42210b;
+    padding: 0%;
+}
+body{
+    background-color: #fd9c9c;
+}
+footer{
+    background-color:#42210b;
+    width: 100%;
+    height: 60%;
+}
+html,body{
+    margin: 0;
+}
+.fonte{
+
+}
+header{
+    background-color:rgb(177, 14, 14);
+    color: white;
+    height: 90px;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+.centro{
+    text-align: center;
+}
+@media all and (max-width: 450px) {}
